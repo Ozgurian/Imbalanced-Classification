@@ -72,3 +72,7 @@ auc.tmp_GBM
 # This approach of balancing the data set with SMOTE and training a gradient boosting algorithm on the balanced
 # set significantly impacts the accuracy of the predictive model. By increasing its lift by around 20% and precision/hit ratio
 # by 3-4 times as compared to normal analytical modeling techniques like logistic regression and decision trees.
+                
+                
+ # While comparing multiple prediction models built through an exhaustive combination of the above-mentioned techniques 
+ # Lift & Area under the ROC Curve will be instrumental in determining which model is superior to the others.
