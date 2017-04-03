@@ -1,7 +1,9 @@
 [Analystics Vidhya](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
 <br> It has been taken from this page
 
-Sampling Techniques
+How to address imbalanced data
+
+Resampling Techniques
 ===================
 
 To tackle with imbalanced data entails strategies such as improving classification algorithms or balancing classes in the training data (data preprocessing) before providing the data as input to the machine learning algorithm. The later technique is preferred as it has wider application.
