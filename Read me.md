@@ -3,7 +3,7 @@
 
 How to address imbalanced data
 
-1. Resampling Techniques
+Resampling Techniques
 ===================
 
 To tackle with imbalanced data entails strategies such as improving classification algorithms or balancing classes in the training data (data preprocessing) before providing the data as input to the machine learning algorithm. The later technique is preferred as it has wider application.
@@ -17,5 +17,10 @@ The main objective of balancing classes is to either increasing the frequency of
 * Informed Over Sampling
 * Modified synthetic minority oversampling technique (MSMOTE)
 
+Algorithmic Ensemble Techniques
+===============================
 
+<br> The above section, deals with handling imbalanced data by resampling original data to provide balanced classes. In this section, we are going to look at an alternate approach i.e.  Modifying existing classification algorithms to make them appropriate for imbalanced data sets.
+
+The main objective of ensemble methodology is to improve the performance of single classifiers. The approach involves constructing several two stage classifiers from the original data and then aggregate their predictions.
  
