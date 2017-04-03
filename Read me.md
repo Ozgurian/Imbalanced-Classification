@@ -3,7 +3,7 @@
 
 How to address imbalanced data
 
-Resampling Techniques
+1. Resampling Techniques
 ===================
 
 To tackle with imbalanced data entails strategies such as improving classification algorithms or balancing classes in the training data (data preprocessing) before providing the data as input to the machine learning algorithm. The later technique is preferred as it has wider application.
