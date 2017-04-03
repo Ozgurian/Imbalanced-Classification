@@ -67,6 +67,8 @@ AUC_GBM <- as.numeric(auc.tmp_GBM@y.values)
 auc.tmp_GBM
  
 
-Results
+# Results
 
-This approach of balancing the data set with SMOTE and training a gradient boosting algorithm on the balanced set significantly impacts the accuracy of the predictive model. By increasing its lift by around 20% and precision/hit ratio by 3-4 times as compared to normal analytical modeling techniques like logistic regression and decision trees.
+# This approach of balancing the data set with SMOTE and training a gradient boosting algorithm on the balanced
+# set significantly impacts the accuracy of the predictive model. By increasing its lift by around 20% and precision/hit ratio
+# by 3-4 times as compared to normal analytical modeling techniques like logistic regression and decision trees.
